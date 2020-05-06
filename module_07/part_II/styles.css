@@ -1,0 +1,36 @@
+body {
+}
+.body_active {
+  background: orange;
+}
+/* 3 */
+.list_nav {
+  background: cornflowerblue;
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+.list_nav li {
+  border: orange 2px solid;
+  color: #fff;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+.active {
+  background: salmon;
+}
+
+/* 4 */
+.form input {
+  display: block;
+  margin-bottom: 10px;
+  padding: 4px;
+}
+.active2 {
+  background: skyblue;
+}
+
+.active_inp {
+  background: royalblue;
+}

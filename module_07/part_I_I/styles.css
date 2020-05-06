@@ -1,0 +1,17 @@
+body {
+  background: dodgerblue;
+}
+.big_div {
+  width: 250px;
+  height: 250px;
+  background: dodgerblue;
+
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.small_div {
+  width: 100px;
+  height: 100px;
+  background: orange;
+}
