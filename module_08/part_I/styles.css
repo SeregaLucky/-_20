@@ -1,0 +1,59 @@
+body {
+  height: 700vh;
+}
+
+/* 1 */
+.parent_div {
+  width: 250px;
+  height: 250px;
+  background: cornflowerblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.child_div {
+  width: 150px;
+  height: 150px;
+  background: #fa8072;
+
+  /*
+   * Проверяем кликабельность
+   */
+  /* opacity: 0; */
+  /* display: none; */
+  /* visibility: hidden; */
+}
+
+/* 2 */
+.cont_input {
+  position: relative;
+}
+.cont_input::before {
+  content: "";
+  width: 20px;
+  height: 100%;
+  background-color: rgba(106, 90, 205, 0.4);
+  cursor: pointer;
+
+  position: absolute;
+  left: 120px;
+  pointer-events: none;
+}
+
+/* 3 */
+.list_nav {
+  background: cornflowerblue;
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+.list_nav li {
+  border: orange 2px solid;
+  color: #fff;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+.active {
+  background: salmon;
+}
