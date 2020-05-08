@@ -1,0 +1,33 @@
+body {
+  height: 700vh;
+}
+ul {
+  list-style: none;
+}
+
+/* 2 */
+/* .nav_list {
+  display: flex;
+  background: beige;
+}
+.todo_item {
+  cursor: pointer;
+  padding: 10px 20px;
+  text-transform: uppercase;
+}
+.todo_item--active {
+  background-color: lightcoral;
+  color: #fff;
+} */
+
+.container_img div {
+  height: 400px;
+}
+
+/* 3 */
+.js_div {
+  height: 600px;
+}
+.js_div:nth-child(odd) {
+  background: skyblue;
+}
