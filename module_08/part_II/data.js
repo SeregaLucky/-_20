@@ -1,26 +1,26 @@
 export default [
   {
     src:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRW1CD3mfysM6SDaHAKyNhNtbZJLBEYrqBvn6e8vyuacLK8_C4t&usqp=CAU",
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRW1CD3mfysM6SDaHAKyNhNtbZJLBEYrqBvn6e8vyuacLK8_C4t&usqp=CAU',
   },
   {
     src:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZddhjhh9Dr3myTn5NCvvZRbawi9vgq26pJBWrqlh6RpcCkf9k&usqp=CAU",
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZddhjhh9Dr3myTn5NCvvZRbawi9vgq26pJBWrqlh6RpcCkf9k&usqp=CAU',
   },
   {
     src:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbaL7LEfmgNZrFEWF_TlFt-R4pKljFzjkFj9Q4Hd2fC2tuHrjA&usqp=CAU",
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbaL7LEfmgNZrFEWF_TlFt-R4pKljFzjkFj9Q4Hd2fC2tuHrjA&usqp=CAU',
   },
   {
     src:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnZMBjD0bZQaPt8z_Po_62hcQurRq4g1fS_tGjwZiokm3wPtiI&usqp=CAU",
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnZMBjD0bZQaPt8z_Po_62hcQurRq4g1fS_tGjwZiokm3wPtiI&usqp=CAU',
   },
   {
     src:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqhX0b-sfwmlUdypJKq8pfByPfwsmiBEm18FitkVqXMz_nXNEV&usqp=CAU",
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqhX0b-sfwmlUdypJKq8pfByPfwsmiBEm18FitkVqXMz_nXNEV&usqp=CAU',
   },
   {
     src:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmm-d0eTf7ADIG_kRbvAHms2hPGQe46n0nVtNNo-2vDbLfRBwN&usqp=CAU",
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmm-d0eTf7ADIG_kRbvAHms2hPGQe46n0nVtNNo-2vDbLfRBwN&usqp=CAU',
   },
 ];

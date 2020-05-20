@@ -129,12 +129,12 @@
 //
 //
 
-const input = document.querySelector("#controls > input");
+const input = document.querySelector('#controls > input');
 const btnRender = document.querySelector("button[data-action='render']");
 const btnDestroy = document.querySelector("button[data-action='destroy']");
-const box = document.querySelector("#boxes");
+const box = document.querySelector('#boxes');
 
-btnRender.addEventListener("click", takeValueInput);
+btnRender.addEventListener('click', takeValueInput);
 
 function takeValueInput() {
   const valueInput = Number(input.value);
@@ -145,7 +145,7 @@ function createBoxes(amount) {
   const allDiv = [];
 
   for (let i = 0; i < amount; i += 1) {
-    const div = document.createElement("div");
+    const div = document.createElement('div');
     // div.style.height = `${30 + i * 10}px`;
     // div.style.width = `${30 + i * 10}px`;
     // // div.style.background = creatColor();
